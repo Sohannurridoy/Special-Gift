@@ -79,10 +79,10 @@ def menu_apikey():
              ███████ ██         ██
 
     ┌───────────────────────────────────────┐
-    │ [✓] AUTHOR   : SHAHIN ALAM            │
-    │ [✓] GITHUB   : SPY-1x1                │
-    │ [✓] WHATSAPP : +8801615161056         │
-    │ [✓] VERSION  : 0.2                    │
+    │ [✓] AUTHOR   : HRI DOY                │
+    │ [✓] GITHUB   : Shohannurridoy         │
+    │ [✓] WHATSAPP : +8801319336280         │
+    │ [✓] VERSION  : 0.0                    │
     │ [✓] POWER BY : \033[1;32mPRO PRONOY \033[1;37m            │
     └───────────────────────────────────────┘""")                                           
   print(f"\t \033[1;32m  FIRST GET APPROVEL\033[1;37m ")
