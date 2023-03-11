@@ -127,10 +127,10 @@ logo=(f"""\x1b[1;97m
              ███████ ██         ██
 
     ┌───────────────────────────────────────┐
-    │ [✓] AUTHOR   : SHAHIN ALAM            │
-    │ [✓] GITHUB   : SPY-1x1                │
-    │ [✓] WHATSAPP : +8801615161056         │
-    │ [✓] VERSION  : 0.2                    │
+    │ [✓] AUTHOR   : HRI DOY                │
+    │ [✓] GITHUB   : Sohannuridoy           │
+    │ [✓] WHATSAPP : +8801319336280         │
+    │ [✓] VERSION  : 0.0                    │
     │ [✓] POWER BY : \033[1;32mPRO PRONOY \033[1;37m            │
     └───────────────────────────────────────┘""")
 
